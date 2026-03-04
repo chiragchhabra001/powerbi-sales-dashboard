@@ -31,3 +31,5 @@ Trend analysis over time
 Comparison across categories/regions/metrics
 
 Summary view for quick business understanding
+
+Link to the dashboard : https://app.powerbi.com/view?r=eyJrIjoiMWNkMGQzMzctNTZmYy00Y2U0LWEzN2MtMWZjZWIwOGM2NWVmIiwidCI6IjgzNjA0NTRlLTMxOWItNDEzNC1hOTgwLTM3Y2Y0OWQ4M2I0ZSJ9
